@@ -1,6 +1,6 @@
 {
-  "ver_code": 401154,
-  "ver_str": "4.1.154",
-  "url": "https://github.com/trtripmate-lgtm/OTA/releases/download/M669v4.1.154/M669v4.1.154.tmota",
-  "changelog": "M669v4.1.154 Wi-Fi OTA dogrulama surumu"
+  "ver_code": 401156,
+  "ver_str": "4.1.156",
+  "url": "https://github.com/trtripmate-lgtm/OTA/releases/download/M669v4.1.156/M669v4.1.156.tmota",
+  "changelog": "Klavye tek BAGLAN butonu + OTA guncelleme"
 }
