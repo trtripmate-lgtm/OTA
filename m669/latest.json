@@ -1,6 +1,6 @@
 {
-  "ver_code": 401156,
-  "ver_str": "4.1.156",
-  "url": "https://github.com/trtripmate-lgtm/OTA/releases/download/M669v4.1.156/M669v4.1.156.tmota",
-  "changelog": "Klavye tek BAGLAN butonu + OTA guncelleme"
+  "ver_code": 401157,
+  "ver_str": "4.1.157",
+  "url": "https://github.com/trtripmate-lgtm/OTA/releases/download/v4.1.157/M669v4.1.157.tmota",
+  "changelog": "Web Portal 10 dil desteği + 14 günlük sürüş grafiği ve CSV indirme"
 }
